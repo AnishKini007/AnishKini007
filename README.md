@@ -10,10 +10,10 @@
 
 | Project | What it shows |
 | --- | --- |
-| [AWS ECS MLOps platform](https://github.com/AnishKini007/aws-app) | Terraform VPC, ECS Fargate, ALB, RDS, ECR, S3; GitHub Actions with OIDC; DVC + MLflow model pipeline |
-| [Terraform EKS + RDS platform](https://github.com/AnishKini007/Terraform-eks-devops-Project) | Terraform VPC, EKS and RDS; containerised Flask app; CI/CD to EKS; Prometheus and Grafana |
+| [AWS ECS MLOps platform](https://github.com/AnishKini007/aws-ecs-mlops-platform) | Terraform VPC, ECS Fargate, ALB, RDS, ECR, S3; GitHub Actions with OIDC; DVC + MLflow model pipeline |
+| [Terraform EKS + RDS platform](https://github.com/AnishKini007/terraform-eks-rds-platform) | Terraform VPC, EKS and RDS; containerised Flask app; CI/CD to EKS; Prometheus and Grafana |
 | [AWS EKS DevOps platform](https://github.com/AnishKini007/aws-devops-platform) | Microservices on EKS with Jenkins CI, Argo CD GitOps, Helm charts and monitoring |
-| [DevSecOps on EKS](https://github.com/AnishKini007/Capstone-Project) | Jenkins, SonarQube, Nexus, HashiCorp Vault and monitoring on EKS, provisioned with Terraform |
+| [DevSecOps on EKS](https://github.com/AnishKini007/devsecops-eks-platform) | Jenkins, SonarQube, Nexus, HashiCorp Vault and monitoring on EKS, provisioned with Terraform |
 
 ### Tools
 
